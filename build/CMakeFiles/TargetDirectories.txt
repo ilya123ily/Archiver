@@ -1,0 +1,3 @@
+/home/ilya/Programs/Archiver/build/CMakeFiles/archiver.dir
+/home/ilya/Programs/Archiver/build/CMakeFiles/edit_cache.dir
+/home/ilya/Programs/Archiver/build/CMakeFiles/rebuild_cache.dir
