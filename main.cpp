@@ -5,11 +5,8 @@
 
 #include "application.h"
 
-int main() {//int argc, char* argv[]) {
+int main(int argc, char* argv[]) {
     try {
-        int argc = 3;
-        // char* Argv[] = {"path", "-c", "check.txt", "/home/ilya/Programs/Project/Archivery/T.txt"};
-        //char* argv[] = {"path", "-c", "check.txt", "/home/ilya/Programs/Archiver/T.txt"};
         char* argv[] = {"path", "-d", "check.txt"};
         Application app(argc, argv);
         app.Run();
